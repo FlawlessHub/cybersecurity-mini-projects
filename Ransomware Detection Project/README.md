@@ -15,7 +15,8 @@ The program watches a folder in real time and raises an alert when multiple file
 
 - Python
 - Watchdog Library
-- Tkinter
+- Tkinter (GUI Alerts)
+- File Handling (Incident Report Generation)
 
 ## How It Works
 
