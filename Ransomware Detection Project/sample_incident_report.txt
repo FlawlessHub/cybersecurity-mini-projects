@@ -1,0 +1,15 @@
+Ransomware Detection Reports
+
+======== INCIDENT REPORT ========
+Time: Thu Jun 18 19:46:04 2026
+Recent Modifications: 5
+Detection Window: 10 seconds
+Alert Threshold: 5
+Number of Affected Files: 3
+
+Affected Files:
+----------------------
+- hello.txt
+- notes.txt
+- data.txt
+===================================
